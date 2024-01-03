@@ -5,7 +5,7 @@ public class Main {
     private static   long calculatefaktöriyel( long number ){
 
    if (number < 0){
-       System.out.println("hatalı rakam girdiniz pozitif girin bro ");
+       System.out.println("Enter a positive number. ");
        System.exit(1);
    }
 
